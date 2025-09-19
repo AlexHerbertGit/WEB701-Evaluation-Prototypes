@@ -1,0 +1,7 @@
+## WEB701-Evaluation-Prototypes
+
+This repository contains each prototype for the five stacks in indivdual folder EXCEPT the .NET 8 / Blazor stack due to it being a Visual Studio Solution and needs to be opened in Visual Studio 2022. Each prototype has a README with instrcutions of how to start the server/api and the client side. Some prototypes may require creating the database in either MongoDb, SQLite, or LocalDB depending on the stack. 
+
+The .NET 8 / Blazor Repo can be found here: https://github.com/AlexHerbertGit/.NET-8-Blazor-Stack.git
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Clone that URL to Visual Studio 2022 to view and test the stack prototype.
